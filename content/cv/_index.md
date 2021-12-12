@@ -6,4 +6,4 @@ title: CV
 view: 2
 ---
 
-My CV is available at this link [HTML](cv/cv-avh.html) or as a [PDF](cv/cv-avh.pdf).
+Click on this link to download a copy of my CV: [CV](cv/cv-avh.pdf). 

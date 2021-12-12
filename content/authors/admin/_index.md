@@ -12,7 +12,7 @@ interests:
 - Longitudinal and time-to-event analyses
 - Structural equation modeling
 - Data visualization
-- Reproducibile research
+- Reproducible research
 organizations:
 - name: ''
   url: ''
@@ -38,7 +38,7 @@ social:
   link: https://www.researchgate.net/profile/Ann_Von_Holle
 - icon: cv
   icon_pack: ai
-  link: '#cv'
+  link: "cv/cv-avh.pdf"
 superuser: yes
 authors: admin
 user_groups:

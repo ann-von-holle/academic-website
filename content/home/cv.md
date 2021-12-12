@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
 title = "CV"
@@ -50,4 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-My CV is available in [HTML](../cv/cv-avh.html) or [PDF](../cv/cv-avh.pdf) form.
+
+Click on this link to download a copy of my CV: [CV](cv/cv-avh.pdf). 

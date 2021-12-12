@@ -9,7 +9,7 @@ date: "2018-08-01T00:00:00Z"
 doi: "10.1016/j.annepidem.2018.04.006"
 featured: false
 projects: []
-publication_types: ["3"]
+publication_types: ["2"]
 publication: '*Annals of Epidemiology*'
 publication_short: ""
 publishDate: "2018-08-01T00:00:00Z"

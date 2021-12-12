@@ -26,6 +26,10 @@ links:
   icon_pack: fab
   name: poster
   url: "SER_2021_Toenail_and_serum_measures_as_biomarkers_of_iron_levels.pdf"
+- icon: 
+  icon_pack: fab
+  name: NIEHS poster
+  url: "NIEHS_Science_Days_Nov_2021____Iron_serum_nail_comparison.pdf"
 url_code: ""
 url_pdf: ""
 url_slides: ""

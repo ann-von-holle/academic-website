@@ -11,14 +11,17 @@ featured: false
 publication_types: ["2"]
 projects: []
 publication: 'International Journal of Epidemiology'
-publication_short: ""
+publication_short: "IJE"
 publishDate: "2020-11-28T00:00:00Z"
 summary: 
 tags:
+- incidence
+- breast cancer
+- familial clustering
 title: "Evidence for familial clustering in breast cancer age of onset"
-url_code: "https://doi.org/10.1093/ije/dyaa201"
+url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.1093/ije/dyaa201"
 url_poster: ""
 url_project: ""
 url_slides: ""
