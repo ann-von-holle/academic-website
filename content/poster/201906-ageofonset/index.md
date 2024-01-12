@@ -15,7 +15,10 @@ projects: []
 publishDate: []
 slides: []
 summary: ""
-tags: []
+tags:
+- breast cancer
+- familial clustering
+- incidence
 title: Familial aggregation of age of onset for breast cancer risk
 links:
 - icon: 

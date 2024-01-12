@@ -15,7 +15,9 @@ projects: []
 publishDate: []
 slides: []
 summary: ""
-tags: []
+tags:
+- biomarkers
+- iron
 title: Toenail and serum measures as biomarkers of iron levels
 links:
 - icon: 

@@ -21,7 +21,14 @@ projects: []
 publishDate: []
 slides: []
 summary: ""
-tags: []
+tags:
+- infant growth
+- lipids
+- biomarkers
+- latent growth mixture models
+- LGMM
+- SNP
+- growth trajectories
 title: "Infant Growth as an Effect Modifier of Genetic-Lipid Associations: Evidence From a Chilean Infancy Cohort"
 links:
 - icon: 

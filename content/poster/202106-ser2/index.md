@@ -16,7 +16,9 @@ projects: []
 publishDate: []
 slides: []
 summary: ""
-tags: []
+tags:
+- biomarkers
+- iron
 title: Predictive models for iron status in postmenopausal women
 links:
 - icon: 

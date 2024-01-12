@@ -15,7 +15,11 @@ projects: []
 publishDate: []
 slides: []
 summary: ""
-tags: []
+tags:
+- infant growth
+- sociodemographic
+- SITAR
+- growth trajectories
 title: "Sociodemographic predictors of early postnatal growth"
 links:
 - icon: 
