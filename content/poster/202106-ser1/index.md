@@ -12,7 +12,6 @@ featured: false
 math: true
 date: "2021-06-21T13:00:00Z"
 projects: []
-publishDate: []
 slides: []
 summary: ""
 tags:

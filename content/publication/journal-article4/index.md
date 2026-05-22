@@ -6,10 +6,10 @@ authors:
 - Dale P. Sandler
 - Clarice R. Weinberg
 date: "2020-10-30T00:00:00Z"
-doi: ""
+doi: "10.1158/1055-9965.EPI-20-0715"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-30T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +30,16 @@ abstract: "**Background** Iron is both essential to life and potentially toxic a
 summary: 
 
 tags:
-- breast cancer
+- breast neoplasms
+- hazards models
 - incidence
 - biomarkers
+- postmenopause
 - iron
+- ferritins
+- transferrins
+- obesity
+
 featured: false
 
 links:
@@ -56,7 +62,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,4 +69,6 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+url_poster: "https://www.overleaf.com/read/rbdfbwjcqyfw#b7930f"
 ---

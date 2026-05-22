@@ -1,29 +1,28 @@
 ---
 title: "Ann Von Holle"
-bio: I am a postdoctoral fellow at the National Institute of Environmental Health Sciences (NIEHS) with a research focus on breast cancer epidemiology.
+bio: I am an epidemiologist with work experience spanning fields of genomics, biomarkers, and cancer.
 education:
   courses:
   - course: PhD in Epidemiology
     institution: University of North Carolina, Chapel Hill
-    year: 2018
 email: ''
 interests:
+- Genomics and precision medicine
 - Biomarkers in cancer and chronic disease epidemiology
-- Longitudinal and time-to-event analyses
-- Structural equation modeling
+- Longitudinal, time-to-event, and structural equation analyses
 - Data visualization
 - Reproducible research
 organizations:
 - name: ''
   url: ''
-role: Postdoctoral research fellow
+role: Population Health Scientist
 social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ann-von-holle-b1a819/
+  link: https://www.linkedin.com/in/ann-von-holle/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Rq98r2sAAAAJ&hl=en
@@ -46,4 +45,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow in the [Biostatistics and Computational Biology Branch](https://www.niehs.nih.gov/research/atniehs/labs/bb/index.cfm) at the National Institute of Environmental Health Sciences (NIEHS). My current work focuses on iron biomarkers and breast cancer incidence. For my dissertation, I studied the association between infant growth and lipid levels later in adolescence in a Chilean cohort.
+I am an epidemiologist with experience spanning fields of precision medicine, breast cancer epidemiology, and biomarkers. My doctoral and postdoctoral experiences enabled me to grow my experience in research conceptualization, writing, mentoring, and advanced modeling.
