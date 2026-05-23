@@ -7,6 +7,7 @@ education:
     institution: University of North Carolina, Chapel Hill
 email: ''
 interests:
+- Real world evidence generation
 - Genomics and precision medicine
 - Biomarkers in cancer and chronic disease epidemiology
 - Longitudinal, time-to-event, and structural equation analyses
