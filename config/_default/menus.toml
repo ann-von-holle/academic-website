@@ -20,35 +20,6 @@
   weight = 40
   
 
-[[main]]
-  name = "Posters"
-  url = "#posters"
-  weight = 50
-
-# NOTE: I tried to divide talks into posters and talks by following info at https://github.com/gcushen/hugo-academic/issues/721
-# but didn't work.
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 60
-
-
-[[main]]
-  name = "Dissertation"
-  url = "#projects"
-  weight = 70
-
-[[main]]
-  name = "Projects"
-  url = "#projects2"
-  weight = 75
-
-
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]

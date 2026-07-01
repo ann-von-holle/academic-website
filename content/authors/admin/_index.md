@@ -33,9 +33,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/avonholle
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Ann_Von_Holle
 - icon: cv
   icon_pack: ai
   link: "cv/cv-avh.pdf"
@@ -44,6 +41,8 @@ authors: admin
 user_groups:
 - Researchers
 - Visitors
+avatar:
+  filename: avatar.png
 ---
 
-I am an epidemiologist with experience spanning fields of precision medicine, breast cancer epidemiology, and biomarkers. My doctoral and postdoctoral experiences enabled me to grow my experience in research conceptualization, writing, mentoring, and advanced modeling.
+I am an epidemiologist with experience spanning fields of real world evidence generation, precision medicine, cancer outcomes, and biomarkers. My work experience has enabled me to grow my experience in research conceptualization, writing, mentoring, and advanced modeling.
